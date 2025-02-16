@@ -53,3 +53,5 @@ print(p2.display())
 # like we can access instance method with object name of class(Product, p1, p2)
 
 
+def array(param, param1):
+    return None
